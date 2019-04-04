@@ -2,6 +2,7 @@ package edu.northeaststate.jhoard;
 
 import edu.northeaststate.jhoard.data.BinaryFileAccess;
 import edu.northeaststate.jhoard.exceptions.DepartmentAlreadyExistException;
+import edu.northeaststate.jhoard.exceptions.PersonAlreadyExistsException;
 import edu.northeaststate.jhoard.organization.School;
 import java.io.IOException;
 import java.nio.file.FileAlreadyExistsException;
@@ -45,6 +46,13 @@ public class CollegeDriver
 			e.printStackTrace();
 		}
 	}
+	public static void addInstructor(String firstName, String lastName, String bannerID, String office, String title, double pay, School school){
+		try{
+			school.addAnIntstructor(firstName, lastName, bannerID, office, title, pay);
+		}catch(PersonAlreadyExistsException e){
+			e.getMessage();
+		}
+	}
 	public static void enterSchoolData(School school) {
 		do {
 			System.out.println("1: to enter a new department");
@@ -61,12 +69,34 @@ public class CollegeDriver
 				String departmentName = input.nextLine();
 				addDepartment(departmentName, school);
 			}
+			else if(selection.equalsIgnoreCase("4")){
+				System.out.print("Enter the instructor's first name: ");
+				String fName = input.nextLine();
+				System.out.print("Enter the instructor's last name: ");
+				String lName = input.nextLine();
+				System.out.print("Enter the instructor banner id: ");
+				String banner = input.nextLine();
+				System.out.print("Enter the office number for instructor: ");
+				String officeNum = input.nextLine();
+				System.out.print("Enter the title for instructor: ");
+				String titleName = input.nextLine();
+				System.out.print("Enter the pay for instructor: ");
+				String salary = input.nextLine();
+				double payDbl = Double.parseDouble(salary);
+				addInstructor(fName, lName, banner, officeNum, titleName, payDbl, school);
+			}
 			else {
-				if (selection.equalsIgnoreCase("6")) break;
+				if (selection.equalsIgnoreCase("6")){
+					saveSchoolData(school);
+					break;
+				}
 				System.out.println("\ninvalid input, try again\n\n");
 			}
 			System.out.println(school);
 		} while (true);
+
+	}
+	public static void saveSchoolData(School school){
 		try{
 			BinaryFileAccess.saveSchoolFile("school.txt", school);
 		}catch(FileAlreadyExistsException e){

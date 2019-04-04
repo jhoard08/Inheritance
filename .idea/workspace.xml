@@ -15,20 +15,23 @@
       <change afterPath="$PROJECT_DIR$/../PracticeMakesPerfect/src/edu/northeaststate/jhoard/shape/Shape.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/BinaryFileAccess.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentAlreadyExistException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentNotFoundException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/PersonAlreadyExistsException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Course.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Instructor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Staff.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MoW" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school.txt" beforeDir="false" afterPath="$PROJECT_DIR$/school.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,16 +41,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.490701">
+    <splitter split-orientation="horizontal" split-proportion="0.48861647">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="577">
-                  <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+                <state relative-caret-position="103">
+                  <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
                   <folding>
                     <element signature="imports" expanded="true" />
+                    <element signature="e#2885#2886#0" expanded="true" />
+                    <element signature="e#2946#2947#0" expanded="true" />
+                    <element signature="e#2999#3000#0" expanded="true" />
+                    <element signature="e#3072#3073#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -60,8 +67,11 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-593">
-                  <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+                <state relative-caret-position="-120">
+                  <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -69,7 +79,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/BinaryFileAccess.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
+                <state relative-caret-position="120">
                   <caret line="10" column="39" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="39" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -81,7 +91,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Department.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
+                <state relative-caret-position="165">
                   <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -103,7 +113,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -126,8 +136,8 @@
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver/CollegeDriver.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentAlreadyExistException.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentNotFoundException.java" />
-        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Department.java" />
+        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java" />
       </list>
     </option>
@@ -145,6 +155,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,15 +207,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554233410223" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.XML" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554390965858" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -254,17 +264,18 @@
       <workItem from="1554086104821" duration="4266000" />
       <workItem from="1554210128978" duration="4085000" />
       <workItem from="1554216657765" duration="10287000" />
-      <workItem from="1554234053202" duration="697000" />
+      <workItem from="1554234053202" duration="805000" />
+      <workItem from="1554384000093" duration="5238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24237000" />
+    <option name="totallyTimeSpent" value="29583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="806" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25107297" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18311875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -273,7 +284,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32913166" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913166" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -414,7 +425,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/BinaryFileAccess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="120">
           <caret line="10" column="39" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -424,7 +435,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Department.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="165">
           <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -432,17 +443,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java">
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-593">
-          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-        </state>
+        <state relative-caret-position="-4925" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project6.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1268" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/project-template.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        <state relative-caret-position="103">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2885#2886#0" expanded="true" />
+            <element signature="e#2946#2947#0" expanded="true" />
+            <element signature="e#2999#3000#0" expanded="true" />
+            <element signature="e#3072#3073#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
