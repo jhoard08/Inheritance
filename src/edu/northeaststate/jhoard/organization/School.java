@@ -75,9 +75,20 @@ public class School implements Serializable
 		departments.add(new Department(deptName));
 	}
 
-	public void getDepartment(String dept) throws DepartmentNotFoundException
+	public Department getDepartment(String dept) throws DepartmentNotFoundException
 	{
-		//TODO
+		Department isValid = null;
+		for(Department department : departments){
+			if(!department.getName().equalsIgnoreCase(dept)){
+				continue;
+			}
+			isValid = department;
+			break;
+		}
+		if(isValid == null){
+			throw new DepartmentNotFoundException("Course not found");
+		}
+		return isValid;
 
 	}
 

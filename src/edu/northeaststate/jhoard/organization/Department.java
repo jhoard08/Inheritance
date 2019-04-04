@@ -13,10 +13,9 @@ public class Department implements Serializable
 		this.course = new ArrayList<>();
 	}
 
-	public String addACourseToInventory(String number, String section){
+	public void addACourseToInventory(String number, String section){
 		Course course1 = new Course(number, section);
 		course.add(course1);
-		return "TODO";
 	}
 
 	public String getName()
