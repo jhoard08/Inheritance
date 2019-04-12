@@ -1,5 +1,15 @@
 package edu.northeaststate.jhoard.organization;
-
+/**
+ * -------------------------------------------------
+ * File name: CollegeDriver.java
+ * Project name: Project 6
+ * -------------------------------------------------
+ * Creator's name: Jacob Hoard
+ * Email: jhoard1@northeaststate.edu
+ * Course and section: CISP 1020 A01
+ * Creation date: Apr 2, 2019
+ * -------------------------------------------------
+ */
 import java.io.Serializable;
 import java.util.ArrayList;
 
@@ -30,6 +40,10 @@ public class Department implements Serializable
 
 	@Override public String toString()
 	{
-		return "Department{" + "name='" + name + '\'' + ", course=" + course + '}';
+		StringBuilder sb = new StringBuilder();
+		for(Course courses : course){
+			sb.append(courses);
+		}
+		return sb.toString();
 	}
 }

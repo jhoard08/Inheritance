@@ -1,7 +1,17 @@
 package edu.northeaststate.jhoard.people;
 
 import java.io.Serializable;
-
+/**
+ * -------------------------------------------------
+ * File name: CollegeDriver.java
+ * Project name: Project 6
+ * -------------------------------------------------
+ * Creator's name: Jacob Hoard
+ * Email: jhoard1@northeaststate.edu
+ * Course and section: CISP 1020 A01
+ * Creation date: Apr 2, 2019
+ * -------------------------------------------------
+ */
 public class Student extends Person implements Serializable
 {
 	protected double gpa;
@@ -29,7 +39,6 @@ public class Student extends Person implements Serializable
 
 	@Override public String toString()
 	{
-		return "Student{" + "gpa=" + gpa + ", firstName='" + firstName + '\'' + ", lastName='" + lastName + '\''
-				+ ", bannerID='" + bannerID + '\'' + '}';
+		return "\n\nStudent: " + super.toString() + " GPA: " + gpa;
 	}
 }

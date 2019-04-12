@@ -15,23 +15,44 @@
       <change afterPath="$PROJECT_DIR$/../PracticeMakesPerfect/src/edu/northeaststate/jhoard/shape/Shape.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/BinaryFileAccess.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentAlreadyExistException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentNotFoundException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/PersonAlreadyExistsException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Course.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Instructor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MoW" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/school.txt" beforeDir="false" afterPath="$PROJECT_DIR$/school.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/CollegeDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/CollegeDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/data/BinaryFileAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/data/BinaryFileAccess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/organization/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/organization/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/organization/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/organization/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/organization/School.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/organization/School.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/people/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/people/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/people/Instructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/people/Instructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/people/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/people/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/people/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/people/Staff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/people/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project6/edu/northeaststate/jhoard/people/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/BinaryFileAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/BinaryFileAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentAlreadyExistException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentAlreadyExistException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/PersonAlreadyExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/PersonAlreadyExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Department.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Student.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,68 +62,123 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.48861647">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="103">
-                  <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#2885#2886#0" expanded="true" />
-                    <element signature="e#2946#2947#0" expanded="true" />
-                    <element signature="e#2999#3000#0" expanded="true" />
-                    <element signature="e#3072#3073#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-120">
-                  <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/BinaryFileAccess.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="10" column="39" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="39" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Department.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-66">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#1014#1015#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Staff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+              <folding>
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/PersonAlreadyExistsException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <folding>
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Course.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Department.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Instructor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,25 +196,25 @@
       <list>
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/Interface_.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentAlreadyExisitException.java" />
-        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/PersonAlreadyExistsException.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/Interface.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/Serializeable.java" />
-        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Employee.java" />
-        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Course.java" />
-        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Instructor.java" />
-        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Person.java" />
-        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Staff.java" />
-        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Student.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/DepartmentAlreadyExistsException.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/Public.java" />
-        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/BinaryFileAccess.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver/data/BinaryFileAccess.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver/CollegeDriver.java" />
+        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java" />
+        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Person.java" />
+        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/BinaryFileAccess.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentAlreadyExistException.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/PersonAlreadyExistsException.java" />
+        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Course.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Department.java" />
         <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java" />
-        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java" />
+        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Employee.java" />
+        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Instructor.java" />
+        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Staff.java" />
+        <option value="$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Student.java" />
       </list>
     </option>
   </component>
@@ -155,8 +231,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,7 +288,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554390965858" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554951392440" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
@@ -265,17 +341,30 @@
       <workItem from="1554210128978" duration="4085000" />
       <workItem from="1554216657765" duration="10287000" />
       <workItem from="1554234053202" duration="805000" />
-      <workItem from="1554384000093" duration="5238000" />
+      <workItem from="1554384000093" duration="8621000" />
+      <workItem from="1554403429780" duration="1053000" />
+      <workItem from="1554509938405" duration="1656000" />
+      <workItem from="1554597645231" duration="7463000" />
+      <workItem from="1554911784345" duration="1713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29583000" />
+    <option name="totallyTimeSpent" value="44851000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="806" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18311875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20529328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,17 +373,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913166" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24929972" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32913166" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -343,105 +432,10 @@
     <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/driver/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/Interface_.java" />
     <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/Serializeable.java" />
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Instructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Staff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/DepartmentAlreadyExistsException.java" />
     <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/Public.java" />
     <entry file="file://$PROJECT_DIR$/school.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/PersonAlreadyExistsException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentNotFoundException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentAlreadyExistException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/BinaryFileAccess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Department.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/description.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -474,26 +468,129 @@
     <entry file="file://$PROJECT_DIR$/.idea/project-template.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/data/BinaryFileAccess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2885#2886#0" expanded="true" />
-            <element signature="e#2946#2947#0" expanded="true" />
-            <element signature="e#2999#3000#0" expanded="true" />
-            <element signature="e#3072#3073#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentAlreadyExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/DepartmentNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/exceptions/PersonAlreadyExistsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Instructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/CollegeDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="-66">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/organization/School.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/northeaststate/jhoard/people/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+          <folding>
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
           </folding>
         </state>
       </provider>

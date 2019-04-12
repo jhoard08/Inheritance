@@ -1,5 +1,15 @@
 package edu.northeaststate.jhoard.people;
-
+/**
+ * -------------------------------------------------
+ * File name: CollegeDriver.java
+ * Project name: Project 6
+ * -------------------------------------------------
+ * Creator's name: Jacob Hoard
+ * Email: jhoard1@northeaststate.edu
+ * Course and section: CISP 1020 A01
+ * Creation date: Apr 2, 2019
+ * -------------------------------------------------
+ */
 import java.io.Serializable;
 
 public class Employee extends Person implements Serializable
@@ -38,7 +48,6 @@ public class Employee extends Person implements Serializable
 
 	@Override public String toString()
 	{
-		return "Employee{" + "title='" + title + '\'' + ", pay=" + pay + ", firstName='" + firstName + '\''
-				+ ", lastName='" + lastName + '\'' + ", bannerID='" + bannerID + '\'' + '}';
+		return "Name: " + firstName + " " + lastName + " bannerID: " + bannerID + " Title: " + title + " Pay: " + pay;
 	}
 }
